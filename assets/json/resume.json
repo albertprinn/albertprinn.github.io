@@ -1,26 +1,20 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Albert Prinn",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "albert.prinn@fau.de",
+    "phone": " ",
+    "url": "https://albertprinn.github.io",
+    "summary": "A researcher interested in computational acoustics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Am Wolfsmantel 33",
+      "postalCode": "91058",
+      "city": "Erlangen",
+      "countryCode": "Germany",
+      "region": "Bavaria"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": 
   },
   "work": [
     {
