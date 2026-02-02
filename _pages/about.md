@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Friedrich-Alexander-Universität</a>. Erlangen, Germany.
 
 profile:
   align: right
