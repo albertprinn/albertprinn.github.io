@@ -13,7 +13,7 @@ profile:
     <p>33 Am Wolfsmantel</p>
     <p>Erlangen, 91058</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
